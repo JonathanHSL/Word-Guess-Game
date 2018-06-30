@@ -1,0 +1,43 @@
+.navbar{
+    padding-bottom: 40px;
+    padding-top: 40px;
+     
+    background-image: url("http://media.giphy.com/media/3hBRASG9ZIFTW/giphy.gif");
+    background: url('http://media.giphy.com/media/3hBRASG9ZIFTW/giphy.gif');
+}
+.navbar-brand{
+
+    color:  white !important;
+    font-size: 44px;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+.jumbotron{
+    background-image: url("https://media.giphy.com/media/jTZVegIrdLCCY/giphy.gif");
+    background: url('https://media.giphy.com/media/jTZVegIrdLCCY/giphy.gif');
+    
+}
+
+body{
+    background-color:orange;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QGGT7xvTpdM3c1_i8L-4Ka0rGufVxIjvRPaBsYg19DiiYUjIJA");
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QGGT7xvTpdM3c1_i8L-4Ka0rGufVxIjvRPaBsYg19DiiYUjIJA');
+    background-size: 75%;
+}
+
+
+p {
+    color: white;
+    font-style: oblique;
+    font-weight:bolder;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
